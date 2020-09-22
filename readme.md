@@ -46,8 +46,8 @@ var (
 	size = idsNum / workers
 	// 工人
 	worker = func(no int) {
-        ...
-    }
+		...
+	}
 )
 ```
 
