@@ -1,6 +1,6 @@
 ## Go Rpc Demo
 
-使用 Go 语言开发的 Rpc Demo 项目，使用 jsonrpc 来开启及调用 rpc 服务。
+使用 Go 语言开发的 Rpc Demo 项目，使用 [jsonrpc](https://golang.org/pkg/net/rpc/jsonrpc/) 来开启及调用 rpc 服务。
 
 整体功能：
 
